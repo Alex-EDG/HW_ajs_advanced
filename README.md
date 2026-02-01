@@ -12,6 +12,8 @@
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/45rr3mvexa34vx5h?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ajs-advanced)
+
 ## `for ... in`
 
 ### Легенда
